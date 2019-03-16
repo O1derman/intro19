@@ -1,0 +1,7 @@
+1
+# Mistakes:
+# group-sum.sh uses awk (not allowed)
+# unused-groups.sh is not correct
+# patch.sh does not exist
+# mem.sh uses awk (not allowed)
+# cpu.sh is not correct

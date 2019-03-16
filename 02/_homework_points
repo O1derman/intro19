@@ -1,0 +1,6 @@
+3
+# Mistakes:
+# setup.txt does not exist.
+# two-chars.sh: ?* glob makes no sense.
+# last-line.sh is not correct
+# incl.sh is not correct
