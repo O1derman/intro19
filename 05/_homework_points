@@ -1,3 +1,4 @@
 0
 # Mistakes:
 # bc.sh does not read from stdin
+# ./getmedia.sh -p asch.cz/unix/ does not print anything
